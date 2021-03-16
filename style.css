@@ -1,0 +1,60 @@
+body {
+    font-family: "Montserrat", serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.doc-table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    min-width: 400px;
+    text-align: left;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    float: left;
+}
+
+.doc-table thead {
+    background-color: #009879;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+
+.doc-table th, .doc-table td {
+    padding: 15px 18px;
+}
+
+.doc-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+    color: black;
+}
+
+.doc-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.doc-table tbody tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}
+
+.doc-table tbody tr:last-of-type {
+    border-bottom: 4px solid #009879;
+}
+
+.doc-table thead {
+    position: sticky;
+    top: 0;
+}
+
+.doc-link {
+    color: inherit;
+    text-decoration: white;
+}

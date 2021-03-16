@@ -18,7 +18,5 @@ window.onload = () => { loadDocs(); };
 
 const docs = 
 [
-    ["Latino (Compiti)", "https://docs.google.com/document/d/1eoKC046akmPC0o3y0Tsc3mBAePIhO3pwg2ITsCK22nM/edit"],
-    ["Poesia (Compiti)", "https://docs.google.com/document/d/1YCX1Toz4Tb5WFCqcVLI2qo4zY3e3wJbgbnjNchFi14k/edit?usp=sharing"],
-    ["Fisica", "https://docs.google.com/document/d/1ZKAwRP1jOhK15AcEPrUXXdaNP7lKKgK8d5UebNlTZJg/edit"],
+   
 ];

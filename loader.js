@@ -18,5 +18,5 @@ window.onload = () => { loadDocs(); };
 
 const docs = 
 [
-   
+   ["Italiano", "https://docs.google.com/spreadsheets/d/1GHM4f89JSqW-w8YdNpHyM7mPExr08wfhl4Eusr89Spk/edit?usp=sharing"],
 ];

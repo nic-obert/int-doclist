@@ -19,4 +19,5 @@ window.onload = () => { loadDocs(); };
 const docs = 
 [
    ["Italiano", "https://docs.google.com/spreadsheets/d/1GHM4f89JSqW-w8YdNpHyM7mPExr08wfhl4Eusr89Spk/edit?usp=sharing"],
+   ["Storia", "https://docs.google.com/spreadsheets/d/1ya_sRrQg7DsqjYI7aAjbUG5TBYYpNoVF-NhUrJQJM6c/edit?usp=drivesdk"],
 ];

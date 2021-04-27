@@ -21,4 +21,5 @@ const docs =
    ["Italiano", "https://docs.google.com/spreadsheets/d/1GHM4f89JSqW-w8YdNpHyM7mPExr08wfhl4Eusr89Spk/edit?usp=sharing"],
    ["Storia", "https://docs.google.com/spreadsheets/d/1ya_sRrQg7DsqjYI7aAjbUG5TBYYpNoVF-NhUrJQJM6c/edit?usp=drivesdk"],
    ["Scienze", "https://docs.google.com/spreadsheets/d/1N6piJzzpJ8kGEeeU35r7VwaD3KmMlmDrOTmk1_JF2Vk/edit?usp=drivesdk"],
+   ["Ginnastica", "https://docs.google.com/spreadsheets/d/19WdY83k0sxpTdv5cKxRuq0xmnEWo7a5Q_X94QgQR1V8/edit?usp=sharing"],
 ];
